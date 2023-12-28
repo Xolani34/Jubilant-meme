@@ -1,0 +1,7 @@
+list = ["a", "b", "c"]
+
+for x in list:
+    print(x)
+
+for x in "banana":
+  print(x)
